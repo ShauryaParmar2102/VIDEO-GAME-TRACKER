@@ -10,15 +10,13 @@ A full-stack web application to track your video game collection. Users can add,
 - 🟢/🔴 Track if games are **Played** or **Unplayed**  
 - ❌ Delete games from your collection  
 - 🔍 Search for games by title or company  
-- 📅 Automatically adds a **timestamp** when games are added  
-- ⭐ Optional: Track **ratings**  
-- 🖥️ Optional: Track **platform** (PS5, Xbox, PC)  
+- 📅 Automatically adds a **timestamp** when games are added
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML, CSS, Vanilla JS  
+- **Frontend:** HTML, CSS, Vanilla JavaScript
 - **Backend:** Node.js, Express  
 - **Data Storage:** JSON file (`games.json`)  
 - **Communication:** RESTful API using `fetch()`
