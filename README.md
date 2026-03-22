@@ -25,25 +25,35 @@ A full-stack web application to track your video game collection. Users can add,
 
 ## 🚀 Getting Started
 
-1. **Download the project**  
-   - Press the **green Code button** on GitHub  
-   - Click **Download ZIP**  
-   - **Unzip** the files to a folder on your computer  
+How to Download and Run the Project
 
-2. **Open the project folder** in **Visual Studio Code**  
+1️⃣ Download the Project
 
-**Install Node Modules (THIS IS NEEDED FOR PROJECT TO RUN)**
+Press the green Code button on GitHub.
 
-How to Run the Project:
+Click Download ZIP.
 
-1: Open the terminal in your project folder.
+Unzip the files to a folder on your computer.
 
-2: Install the dependencies (this will create the node_modules folder):
+Open the project folder in Visual Studio Code.
 
-3: npm install
+2️⃣ Install Node Modules (Required for the project to run)
 
-4: Start the server:
+Open the terminal in your project folder (the folder with package.json).
 
-5: npm run start
+Run this command:
 
-6: Open your browser and go to http://localhost:5000
+npm install
+
+This will download all the dependencies and create the node_modules folder.
+
+3️⃣ Start the Server
+
+In the same terminal, run:
+
+npm run start
+
+4️⃣ Open the Project in Browser
+
+Go to:
+http://localhost:5000
