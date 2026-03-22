@@ -46,6 +46,4 @@ How to Run the Project:
 
 5: npm run start
 
-6: Open your browser and go to:
-
-7: http://localhost:5000
+6: Open your browser and go to http://localhost:5000
