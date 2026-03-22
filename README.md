@@ -34,13 +34,11 @@ A full-stack web application to track your video game collection. Users can add,
 
 **Install Node Modules**
 
-Open the terminal in your project folder (where package.json is located) and run:
+Open the terminal in your project folder (the folder with package.json).
 
+Run this command:
 npm install
-
-This will download all the packages your project needs (like Express) and create the node_modules folder.
-You don’t need to create node_modules manually — NPM does it automatically.
-
-After that, you can start your server with:
-
+This will automatically create the node_modules folder and download all the dependencies your project needs (like Express).
+After this, your project will have everything it needs to run.
+Start your server:
 npm run start
