@@ -16,7 +16,7 @@ A full-stack web application to track your video game collection. Users can add,
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML, CSS, Vanilla JavaScript
+- **Frontend:** HTML, CSS and JavaScript
 - **Backend:** Node.js, Express  
 - **Data Storage:** JSON file (`games.json`)  
 - **Communication:** RESTful API using `fetch()`
