@@ -58,5 +58,7 @@ npm run start
 Go to:
 http://localhost:5000
 
-### 🌟 Inspired by Nivedita Parmar
+## 🌟 Credits
+
+Inspired by Nivedita Parmar
 
